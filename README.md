@@ -1,2 +1,3 @@
-# interview_prep
-Code from Interview Prep Session
+# Interview Prep Material
+
+Code from an interview prep session that I did.
